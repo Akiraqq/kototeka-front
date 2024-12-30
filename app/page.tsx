@@ -13,7 +13,7 @@ const Home: FC = () => {
     <main className="w-screen h-screen flex justify-center items-center bg-slate-600">
       <Card>
         <CardHeader>
-          <CardTitle>Card Title</CardTitle>
+          <CardTitle>Card!</CardTitle>
           <CardDescription>Card Description</CardDescription>
         </CardHeader>
         <CardContent>
