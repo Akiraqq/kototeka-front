@@ -6,8 +6,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Food control',
-  description: 'Ration control app',
+  title: 'Kototeka',
+  description: "Let's help animals together",
 };
 
 interface Props {
